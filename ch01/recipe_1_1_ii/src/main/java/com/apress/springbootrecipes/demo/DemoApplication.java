@@ -8,6 +8,9 @@ import java.util.Arrays;
 /**
  * @author Marten Deinum
  */
+
+// this annotation is an interface and is a combination of multiple other
+// annotations
 @SpringBootApplication
 public class DemoApplication {
 
